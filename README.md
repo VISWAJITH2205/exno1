@@ -167,4 +167,4 @@ ir1
 ---
 
 # Result
-         Thus, we have read the given data and performed data cleaning and saved the cleaned data to a file successfully.
+Thus, we have read the given data and performed data cleaning and saved the cleaned data to a file successfully.
